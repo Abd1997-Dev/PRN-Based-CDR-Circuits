@@ -62,5 +62,7 @@ P = C*V<sub>dd</sub><sup>2</sup>*F
 
 In the final power expression the capacitance cannot be changed, voltage is based on the technology, and the frequencey is the only possibility to change. so we have to reduce the switching frequency without affecting the bandwidth of the communication much. Thus, the clock and data recovery circuit with the reduced frequency operation is required.
 
+In a study publised in research paper<sup>[1]</sup> shows that the receiver circuit is power hungry and it consumes 60% of the total power of the transceiver. Out of that, CDR consumes 30% of the power. Thus, the CDR is the most power hungry circuit ot power consuming block among other blocks of the serial data link.
+
 
 
