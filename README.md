@@ -51,11 +51,11 @@ I = (C*V<sub>dd</sub>)F
 </p>
 
 <p align = "center">
-P = V<sub>dd</sub>)*I
+P = V<sub>dd</sub>*I
 </p>
 
 <p align = "center">
-P = C*V<sub>dd</sub>)<sup>2</sup>*F
+P = C*V<sub>dd</sub><sup>2</sup>*F
 </p>
 
 
