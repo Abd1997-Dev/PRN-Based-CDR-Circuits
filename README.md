@@ -24,8 +24,6 @@ Fig. 2 - Intermodule communication system with a simplified top level block diag
 The problem with the point to point serial link is high dynamic power consumption. Because of the charging and the discharging of the capacitance presence in the transmission line.
 
 
-![Screenshot from 2023-05-23 10-19-48](https://github.com/Abd1997-Dev/PRN-Based-CDR-Circuits/assets/73669849/8cf6801e-b842-47bf-8108-c09ad51716e5)
-
 <p align="center">
 <img src="https://github.com/Abd1997-Dev/PRN-Based-CDR-Circuits/assets/73669849/8cf6801e-b842-47bf-8108-c09ad51716e5" width="400" height="200">
 </p>
