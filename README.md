@@ -67,4 +67,12 @@ In a study publised in research paper<sup>[1]</sup> shows that the receiver circ
 To avoid this high dynamic power consumption, in this project the internally generated clocks with 1/8<sup>th</sup> the frequency of the input datastream. Thus, this kind of the Serial links are used in the SOC frequently.
 
 
+### Circuit Implementtaion
+There are four building blocks like 
+#### (i) PRN Sequence Generator
+#### (ii) DCO based 16 phase generator
+#### (iii) Early Late Phase Detector
+#### (iv) Delay Line Controller
+
+
 
