@@ -54,10 +54,11 @@ I = (C*V<sub>dd</sub>)F
 P = V<sub>dd</sub>*I
 </p>
 
+The final power expression is, 
+
 <p align = "center">
 P = C*V<sub>dd</sub><sup>2</sup>*F
 </p>
-
 
 
 
