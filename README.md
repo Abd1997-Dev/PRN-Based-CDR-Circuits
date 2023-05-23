@@ -17,5 +17,5 @@ Fig. 1 - SERDES<sup>[1]</sup>
 <img src="https://github.com/Abd1997-Dev/PRN-Based-CDR-Circuits/assets/73669849/23b50680-43b6-4b08-8ff6-800a432cf10a" width="400" height="200">
 </p>
 <p align = "center">
-Fig. 2 - Intermodule communication system with a simplified top level block diagram^[1]^
+Fig. 2 - Intermodule communication system with a simplified top level block diagram<sup>[1]</sup>
 </p>
