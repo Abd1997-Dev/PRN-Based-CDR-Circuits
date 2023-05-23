@@ -36,8 +36,15 @@ The power expression is,
 
 <p align = "center">
 C = Q/V
-I = Q/T
-I = c*V<sub>dd</sub>
 </p>
+
+<p align = "center">
+I = Q/T
+</p>
+
+<p align = "center">
+I = C*V<sub>dd</sub>
+</p>
+
 
 
