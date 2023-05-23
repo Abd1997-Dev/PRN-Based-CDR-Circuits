@@ -64,5 +64,7 @@ In the final power expression the capacitance cannot be changed, voltage is base
 
 In a study publised in research paper<sup>[1]</sup> shows that the receiver circuit is power hungry and it consumes 60% of the total power of the transceiver. Out of that, CDR consumes 30% of the power. Thus, the CDR is the most power hungry circuit ot power consuming block among other blocks of the serial data link.
 
+To avoid this high dynamic power consumption, in this project the internally generated clocks with 1/8<sup>th</sup> the frequency of the input datastream. Thus, this kind of the Serial links are used in the SOC frequently.
+
 
 
