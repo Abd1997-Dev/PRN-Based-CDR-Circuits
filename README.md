@@ -12,7 +12,6 @@ The modules inside the soc increases as the technology scaling increases. The sp
 Fig. 1 - SERDES
 </p>
 
-![Screenshot from 2023-05-23 10-07-25](https://github.com/Abd1997-Dev/PRN-Based-CDR-Circuits/assets/73669849/23b50680-43b6-4b08-8ff6-800a432cf10a)
 
 <p align="center">
 <img src="https://github.com/Abd1997-Dev/PRN-Based-CDR-Circuits/assets/73669849/23b50680-43b6-4b08-8ff6-800a432cf10a" width="400" height="200">
