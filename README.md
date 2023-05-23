@@ -19,3 +19,6 @@ Fig. 1 - SERDES<sup>[1]</sup>
 <p align = "center">
 Fig. 2 - Intermodule communication system with a simplified top level block diagram<sup>[1]</sup>
 </p>
+
+
+The problem with the point to point serial link is high dynamic power consumption. Because of the charging and the discharging of the capacitance presence in the transmission line.
