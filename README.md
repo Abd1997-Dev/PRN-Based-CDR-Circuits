@@ -60,6 +60,7 @@ The final power expression is,
 P = C*V<sub>dd</sub><sup>2</sup>*F
 </p>
 
+In the final power expression the capacitance cannot be changed, voltage is based on the technology, and the frequencey is the only possibility to change. so we have to reduce the switching frequency without affecting the bandwidth of the communication much.
 
 
 
