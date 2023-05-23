@@ -43,8 +43,14 @@ I = Q/T
 </p>
 
 <p align = "center">
-I = C*V<sub>dd</sub>
+I = (C*V<sub>dd</sub>)/T
 </p>
+
+<p align = "center">
+I = (C*V<sub>dd</sub>)F
+</p>
+
+
 
 
 
