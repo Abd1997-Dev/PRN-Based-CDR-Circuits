@@ -31,4 +31,11 @@ The problem with the point to point serial link is high dynamic power consumptio
 Fig. 2 - Capacitance model in the transmission line<sup>[1]</sup>
 </p>
 
+The power expression is,
+
+
+<p align = "center">
+C = Q/V
+</p>
+
 
