@@ -67,7 +67,7 @@ In a study publised in research paper<sup>[1]</sup> shows that the receiver circ
 To avoid this high dynamic power consumption, in this project the internally generated clocks with 1/8<sup>th</sup> the frequency of the input datastream. Thus, this kind of the Serial links are used in the SOC frequently.
 
 
-### Circuit Implementation
+### Circuit Implementation<sup>[2]</sup>
 There are four building blocks like 
 #### (i) PRN Sequence Generator
 #### (ii) DCO based 16 phase generator
@@ -77,8 +77,11 @@ There are four building blocks like
 All the verilog code for this four building blocks are added with this repository.
 
 ### References
-[1] M. Alser, M. Assaad, F. Azmadi Hussin, and I.Yohannes, "Design and FPGA Implemennattion of PLL-based Quarter-rate Clock and Data recovery Circuit," in 4th International Conference on Intelligent and Advanced Systems, 2012.
-[2] S. Ghuguloth, S. Todima, S. Pastham, B. Pradeep Kumar, and C.Sekhar paidimarry, "Design of PRN bsed Octa-rate clock and Data recovery Circuit using FPGA," in International Conference on Signal and Information Processing, 2016.
+##### [1] M. Alser, M. Assaad, F. Azmadi Hussin, and I.Yohannes, "Design and FPGA Implemennattion of PLL-based Quarter-rate Clock and Data recovery Circuit," in 4th International Conference on Intelligent and Advanced Systems, 2012.
+
+
+
+#####  [2] S. Ghuguloth, S. Todima, S. Pastham, B. Pradeep Kumar, and C.Sekhar paidimarry, "Design of PRN bsed Octa-rate clock and Data recovery Circuit using FPGA," in International Conference on Signal and Information Processing, 2016.
 
 
 
