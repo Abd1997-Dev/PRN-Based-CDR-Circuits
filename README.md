@@ -9,7 +9,7 @@ The modules inside the soc increases as the technology scaling increases. The sp
 <img src="https://github.com/Abd1997-Dev/PRN-Based-CDR-Circuits/assets/73669849/87046aba-7341-4e40-baf2-46a888475a1c" width="400" height="200">
 </p>
 <p align = "center">
-Fig. 1 - SERDES
+Fig. 1 - SERDES[1]
 </p>
 
 
@@ -17,5 +17,5 @@ Fig. 1 - SERDES
 <img src="https://github.com/Abd1997-Dev/PRN-Based-CDR-Circuits/assets/73669849/23b50680-43b6-4b08-8ff6-800a432cf10a" width="400" height="200">
 </p>
 <p align = "center">
-Fig. 2 - Intermodule communication system with a simplified top level block diagram
+Fig. 2 - Intermodule communication system with a simplified top level block diagram[1]
 </p>
